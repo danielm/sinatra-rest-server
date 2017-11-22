@@ -4,7 +4,7 @@ A very simple way/quick-start project to create a JSON rest server using Ruby an
 
 ## Authors
 
-* **Daniel Morales** - *Initial work* - [danielm](https://github.com/danielm)
+* **Daniel Morales** - <daniminas@gmail.com> - [danielm](https://github.com/danielm)
 
 ## License
 
