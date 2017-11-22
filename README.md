@@ -1,4 +1,4 @@
-# Sinatra Ruby Json Reset Server
+# Sinatra Ruby JSON REST Server
 
 A very simple way/quick-start project to create a JSON rest server using Ruby and Sinatra
 
