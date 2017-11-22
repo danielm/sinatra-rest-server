@@ -1,0 +1,12 @@
+#
+# File: app/Rakefile
+# 
+# By: Daniel Morales <daniminas@gmail.com>
+#
+# Web: https://github.com/danielm/sinatra-rest-server
+#
+# Licence: GPL/MIT
+
+require './src/main'
+
+require 'sinatra/activerecord/rake'

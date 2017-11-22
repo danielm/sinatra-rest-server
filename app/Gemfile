@@ -1,0 +1,30 @@
+#
+# File: app/Gemfile
+# 
+# By: Daniel Morales <daniminas@gmail.com>
+#
+# Web: https://github.com/danielm/sinatra-rest-server
+#
+# Licence: GPL/MIT
+
+source 'https://rubygems.org'
+
+# SinatraRB Framework
+gem "sinatra"
+
+# Our database gem/mapper/model
+gem "activerecord"
+gem "sinatra-activerecord"
+
+gem "json"
+
+# SQLite
+gem "sqlite3"
+
+# With this we are going to requiere tux only on development mode.
+# tux is a tool that allows you to interact with your Sinatra app from a command line
+# We are going to use it to insert / test a few things.
+group :development do
+ gem "tux"
+end
+

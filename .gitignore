@@ -1,0 +1,4 @@
+/.bundle/
+/.vagrant/
+*.log
+*.db
