@@ -13,4 +13,4 @@ This project is Dual licensed under the MIT and GPL licenses.
 ## More
 See the article about this example project here:
 
-http://daniel.uy/en/ruby/2017/03/how-to-simply-create-json-rest-services-using-activerecord-and-sinatra.html
+https://danielmg.org/ruby/2017/03/how-to-simply-create-json-rest-services-using-activerecord-and-sinatra.html
